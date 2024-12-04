@@ -1,0 +1,29 @@
+.faune {
+    width: 100%;
+    max-width: 150px;
+    border-radius: 5%;
+
+    
+}
+
+.chutes {
+    height: 100%;
+    max-height: 225.33px;
+    border-radius: 5%;
+  
+}
+
+.population {
+    height: 100%;
+    max-height: 225.33px;
+    border-radius: 5%;
+   
+}
+
+.relax {
+    width: 100%;
+    max-width: 150px;
+    max-height: 225.33px;
+    border-radius: 5%;
+  
+}

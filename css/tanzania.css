@@ -1,0 +1,322 @@
+.sarina-regular {
+    font-family: "Sarina", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .volkhov-regular {
+    font-family: "Volkhov", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+
+body{
+    margin: 0%;
+    background-color: #E6DAC6;
+}
+
+.imgacceuil {
+    width: 100%;
+}
+
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #F4EDDE; 
+    color: #144733;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #F4EDDE;
+    color: #144733;
+    position: sticky; 
+    top: 0;
+    z-index: 1000; 
+    width: 100%;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.btn {
+    background-color: #144733;
+    color: #E6DAC6;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: "Gentium Book Plus";
+}
+
+.btn:hover {
+    background-color: #E6DAC6;
+    color: #144733;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #E6DAC6;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #144733;
+    color: #E6DAC6;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+.title {
+    font-family: "Sarina";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.others {
+    font-size: 400%;
+    margin-left: 5%;
+    color: #144733;
+}
+
+.carre {
+    background-color: #F4EDDE;
+    border-radius: 2%;
+    margin:0% 5% ;
+    color: #144733;
+        display: flex;
+        align-items: center; 
+        box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+        flex-wrap: wrap;
+
+    }
+
+.imgtan {
+margin: 2%;
+    width: 30%;
+    border-radius: 5%;
+}
+
+
+.map-frame {
+    width: 500px; 
+    height: 400px; 
+    border: 0; 
+    margin: 2% ;
+    border-radius: 3%;
+}
+
+.localisation {
+    background-color: #F4EDDE; 
+    height: 450px;
+    border-radius: 5%;
+    margin: 0% 5%;
+    display: flex;
+    align-items: center;
+    color:#144733;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+}
+
+.intro {
+width: 100%;
+margin: 0;
+}
+
+
+.plus h3 {
+    font-family: "Volkhov";
+    font-weight: 100;
+    font-size: 15px;
+}
+
+.plus h2 {
+margin-top: 5%;
+}
+
+.plus h2,p {
+    margin-left: 13%;
+}
+
+.plus {
+    margin-top: 5%;
+    background-color: #F4EDDE;
+  margin-left: 24%;
+  margin-right: 24%;
+  border-radius: 5%;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
+  color: #144733;
+  padding: 1%;
+  margin-bottom: 5%;
+}
+
+.boiteun img {
+    width: 200px;
+    max-width: 200px;
+    border-radius: 5%;
+
+    
+}
+
+.boitedeux img {
+    height: 100%;
+    max-height: 300.44px;
+    border-radius: 5%;
+  
+}
+
+.boitetrois img {
+    height: 100%;
+    max-height: 300.44px;
+    border-radius: 5%;
+   
+}
+
+.boitequatre img {
+    width: 200px;
+    max-width: 200px;
+    max-height: 300.44px;
+    border-radius: 5%;
+  
+}
+
+
+.lineun {
+    display: flex;
+   gap: 5%;
+   justify-content: center; 
+   margin: 5%;
+
+}
+
+.linedeux {
+    display: flex;
+    gap: 5%;
+    justify-content: center; 
+
+}
+
+.plus a:hover {
+    background-color: #144733;
+    color: #F4EDDE;
+    border-radius: 5%;
+}
+
+
+@media (max-width: 768px) {
+    #menu {
+        display: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .header {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .title {
+        font-size: 1.2rem; 
+        padding: 0%;
+    }
+
+    .btn {
+        font-size: 14px;
+        padding: 8px 10px;
+    }
+}
+
+.boiteun p {
+    text-align: center;
+    background-color: #144733;
+    }
+
+.boitedeux p {
+    text-align: center;
+    background-color: #144733;
+    }
+
+.boitetrois p {
+    text-align: center;
+    background-color: #144733;
+    }
+            
+.boitequatre p {
+                text-align: center;
+                background-color: #144733;
+                }
+
+#pbas {
+    text-align: center;
+}

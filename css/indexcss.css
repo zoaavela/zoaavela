@@ -1,0 +1,95 @@
+.sarina-regular {
+    font-family: "Sarina", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+body{
+    margin: 0%;
+    background-color: #E6DAC6;
+}
+
+.imgacceuil {
+    width: 100%;
+}
+
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: white; 
+    color: #144733;
+}
+
+
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.btn {
+    background-color: #144733;
+    color: #E6DAC6;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-family: "Gentium Book Plus";
+}
+
+.btn:hover {
+    background-color: #E6DAC6;
+    color: #144733;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #E6DAC6;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
+    z-index: 1;
+    border-radius: 5px;
+}
+
+.dropdown-content a {
+    color: #333;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #144733;
+    color: #E6DAC6;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+
+.title {
+    font-family: "Sarina";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+
