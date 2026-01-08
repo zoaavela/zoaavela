@@ -1,10 +1,3 @@
-# Salut ! Moi c'est Enzo 👋
-
-### 🚀 Futur Développeur Web & Analyste Data 
-**Major de promotion** en 1ère année de B.U.T Métiers du Multimédia et de l'Internet à l'Université Gustave Eiffel. Passionné par la résolution de problèmes complexes et la création de dispositifs interactifs innovants.
-
----
-
 ### 💻 Stack Technique
 
 | Catégorie | Technologies |
