@@ -1,7 +1,7 @@
 # Salut ! Moi c'est Enzo 👋
 
 ### 🚀 Futur Développeur Web & Analyste Data 
-[cite_start]**Major de promotion** en 1re année de B.U.T Métiers du Multimédia et de l'Internet à l'Université Gustave Eiffel[cite: 25, 26]. [cite_start]Passionné par la résolution de problèmes complexes et la création de dispositifs interactifs innovants[cite: 22, 23, 27].
+**Major de promotion** en 1ère année de B.U.T Métiers du Multimédia et de l'Internet à l'Université Gustave Eiffel. Passionné par la résolution de problèmes complexes et la création de dispositifs interactifs innovants.
 
 ---
 
@@ -26,19 +26,29 @@
 ---
 
 ### 💼 Expériences & Projets
-- [cite_start]🏦 **Stage Data & Innovation** - La Banque Postale (Pôle Data et Innovations)[cite: 61, 62, 63].
-- [cite_start]🌍 **Engagement Associatif** - Membre du Conseil d'administration de l'ACINAF[cite: 66, 67, 68].
-- [cite_start]💻 **Projets Web** : Création de sites dynamiques avec gestion de projet, arborescence et hébergement local/en ligne [cite: 49-55].
+- 🏦 **Stage Data & Innovation** - La Banque Postale (Pôle Data et Innovations)
+- 🌐 **Engagement Associatif** - Membre du Conseil d'administration de l'ACINAF
+- 💻 **Projets Web** : Création de sites dynamiques avec gestion de projet, arborescence et hébergement local/en ligne
 
 ---
 
 ### 🌍 Langues & Soft Skills
-- [cite_start]🇫🇷 **Français** : Langue maternelle[cite: 33, 34].
-- [cite_start]🇬🇧 **Anglais** : Niveau C1[cite: 35, 36].
-- [cite_start]🇪🇸 **Espagnol** : Notions[cite: 37, 38].
-- [cite_start]🏀 **Passionné** de Basketball, de Musique (Rap US, Jazz, Soul) et de Jeux vidéo [cite: 40-47].
+- 🇫🇷 **Français** : Langue maternelle
+- 🇬🇧 **Anglais** : Niveau C1
+- 🇪🇸 **Espagnol** : Notions
+- 🏀 **Passionné** de Basketball, de Musique (Rap US, Jazz, Soul) et de Jeux vidéo
 
 ---
 
 ### 📊 GitHub Stats
 ![Stats de Enzo](https://github-readme-stats.vercel.app/api?username=zoaavela&show_icons=true&theme=tokyonight)
+
+---
+
+### 📫 Me contacter
+[![GitHub](https://img.shields.io/badge/GitHub-zoaavela-181717?style=for-the-badge&logo=github)](https://github.com/zoaavela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/votre-profil)
+
+---
+
+<p align="center">💡 Toujours en quête de nouveaux défis techniques et créatifs !</p>
