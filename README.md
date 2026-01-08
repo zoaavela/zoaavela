@@ -40,14 +40,10 @@
 
 ---
 
-### 📊 GitHub Stats
-![Stats de Enzo](https://github-readme-stats.vercel.app/api?username=zoaavela&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Me contacter
 [![GitHub](https://img.shields.io/badge/GitHub-zoaavela-181717?style=for-the-badge&logo=github)](https://github.com/zoaavela)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdienzo/)
+[![Portfolio](https://img.shields.io/badge/Mon_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zoaavela.github.io/myPortfolio/)
 
 ---
 
