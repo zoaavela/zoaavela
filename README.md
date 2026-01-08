@@ -38,7 +38,7 @@
 - 🇫🇷 **Français** : Langue maternelle
 - 🇬🇧 **Anglais** : Niveau C1
 - 🇪🇸 **Espagnol** : Notions
-- 🏀 **Passionné** de Basketball, de Musique (Pusha T ftw) et de Jeux vidéo
+- **Passionné** de Sport et de Musique (Pusha T est le meilleur artiste all time)
 
 ---
 
@@ -46,4 +46,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zoaavela)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdienzo/)
 [![Portfolio](https://img.shields.io/badge/Mon_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zoaavela.github.io/myPortfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzooabdi@gmail.com)
