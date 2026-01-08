@@ -5,49 +5,22 @@
 
 ---
 
-### 💻 Stack Technique
+### 💻 Stack Technique (Développement & Data)
 
-**Langages de Programmation**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,php,javascript,typescript" />
-  </a>
-</p>
-
-**Front-end & Frameworks**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,angular,bootstrap" />
-  </a>
-</p>
-
-**Bases de Données**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-  </a>
-</p>
-
-**Outils & Environnement**
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apache" />
-  </a>
-</p>
+| Catégorie | Technologies |
+| :--- | :--- |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |
+| **Front-end** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Bases de Données** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Outils & Serveur** | ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
-### 🎨 Design & Création
-
-**UI/UX & Design**
+### 🎨 Design & Création (UI/UX)
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere,xd" />
+    <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,premiere,aftereffects" />
   </a>
 </p>
 
@@ -69,27 +42,13 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zoaavela&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoaavela&theme=tokyonight" alt="Streak Stats" />
-</p>
+![Stats de Enzo](https://github-readme-stats.vercel.app/api?username=zoaavela&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 📫 Me contacter
-
-<p align="left">
-  <a href="https://github.com/zoaavela">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/votre-profil">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-zoaavela-181717?style=for-the-badge&logo=github)](https://github.com/zoaavela)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connecter-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/votre-profil)
 
 ---
 
