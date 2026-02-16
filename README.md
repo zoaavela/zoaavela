@@ -1,4 +1,4 @@
-### 💻 Stack Technique
+### Stack Technique
 
 | Catégorie | Technologies |
 | :--- | :--- |
@@ -11,7 +11,7 @@
 
 ---
 
-### 🎨 Design & Création (UI/UX)
+### Design & Création (UI/UX)
 
 | Outil | Maîtrise |
 | :--- | :--- |
@@ -20,14 +20,14 @@
 
 ---
 
-### 💼 Expériences & Projets
+### Expériences & Projets
 - 🏦 **Stage Data & Innovation** - La Banque Postale (Pôle Data et Innovations)
 - 🌐 **Engagement Associatif** - Membre du Conseil d'administration de l'ACINAF
 - 💻 **Projets Web** : Création de sites dynamiques avec gestion de projet, arborescence et hébergement local/en ligne
 
 ---
 
-### 🌍 Langues & Soft Skills
+### Langues & Soft Skills
 - 🇫🇷 **Français** : Langue maternelle
 - 🇬🇧 **Anglais** : Niveau C1
 - 🇪🇸 **Espagnol** : Notions
@@ -35,7 +35,7 @@
 
 ---
 
-### 📫 Me contacter
+### Me contacter
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/zoaavela)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdienzo/)
 [![Portfolio](https://img.shields.io/badge/Mon_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zoaavela.github.io/myPortfolio/)
