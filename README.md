@@ -20,13 +20,6 @@
 
 ---
 
-### Expériences & Projets
-- 🏦 **Stage Data & Innovation** - La Banque Postale (Pôle Data et Innovations)
-- 🌐 **Engagement Associatif** - Membre du Conseil d'administration de l'ACINAF
-- 💻 **Projets Web** : Création de sites dynamiques avec gestion de projet, arborescence et hébergement local/en ligne
-
----
-
 ### Langues & Soft Skills
 - 🇫🇷 **Français** : Langue maternelle
 - 🇬🇧 **Anglais** : Niveau C1
